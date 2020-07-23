@@ -1,7 +1,8 @@
 # Site settings
 title: Erin's Isle GAA Club
 email: website@erinsislegaa.com
-url: ""
+url: "https://mickod.ie"
+baseurl: "/freelancer-theme.github.io"
 description: "The pride of Finglas since 1917"
 keywords: "erinsislegaa erinsisle Finglas Dublin11 Farnham hurling football camogie lgfa"
 skills: "Hurling - Camogie - Ladies Gaelic Football - Gaelic Football"
